@@ -22,7 +22,7 @@ Built from the frustration of “what’s for dinner?”, PantryPal combines the
 
 ## 🌐 Live App
 
-Try it now in your browser: **[https://pantrypal-app.streamlit.app](https://pantrypal-app.streamlit.app)**. Feel free to explore and generate recipes with your pantry items!
+Try it now in your browser: **[https://akash77-pantrypal.streamlit.app/](https://akash77-pantrypal.streamlit.app/)**. Feel free to explore and generate recipes with your pantry items!
 
 ### Home Page
 
