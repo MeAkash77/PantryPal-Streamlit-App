@@ -20,25 +20,6 @@ Built from the frustration of “what’s for dinner?”, PantryPal combines the
   <img src="https://img.shields.io/badge/License-MIT-4E9F3D?style=for-the-badge&logo=github" alt="MIT License">
 </p>
 
-## Table of Contents
-
-- [🌐 Live App](#-live-app)
-- [📝 Features](#-features)
-- [🛠️ Prerequisites](#-prerequisites)
-- [🚀 Installation](#-installation)
-- [🔑 Configuration](#-configuration)
-- [📂 Directory Structure](#-directory-structure)
-- [▶️ Running the App](#-running-the-app)
-- [🧰 Linting & Formatting](#-linting--formatting)
-- [🧑‍🍳 How to Use](#-how-to-use)
-- [⚙️ Customization](#-customization)
-- [🐳 Docker Support](#-docker-support)
-- [📊 Analysis Scripts](#-analysis-scripts)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [📧 Contact](#-contact)
-- [🙏 Acknowledgments](#-acknowledgments)
-
 ## 🌐 Live App
 
 Try it now in your browser: **[https://pantrypal-app.streamlit.app](https://pantrypal-app.streamlit.app)**. Feel free to explore and generate recipes with your pantry items!
@@ -91,7 +72,7 @@ interactive data-based web applications. Here are some of the key features of Pa
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/hoangsonww/PantryPal-Streamlit-App.git
+   git clone https://github.com/MeAkash77/PantryPal-Streamlit-App.git
    cd PantryPal-Streamlit-App
    ```
 
@@ -244,12 +225,6 @@ python analysis/trends_over_time.py
 ## 📄 License
 
 This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
-
-## 📧 Contact
-
-This project is created and maintained by [Son Nguyen](https://sonnguyenhoang.com). Below are my contact details:
-- LinkedIn: [hoangsonw](https://www.linkedin.com/in/hoangsonw/)
-- GitHub: [@hoangsonww](https://github.com/hoangsonww)
 
 ## 🙏 Acknowledgments
 
