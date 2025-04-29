@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d9c65b9-1d2d-4644-8c29-92f7e288da7d" name="Changes" comment="Final: App working" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2wJlxRb8BA3MrkNLcqHgFOoeErC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.python analysis/ingredient_frequency.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python analysis/nutrition_summary.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python analysis/trends_over_time.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHELLCHECK.PATH&quot;: &quot;/Users/davidnguyen/Library/Application Support/JetBrains/PyCharm2024.2/plugins/Shell Script/shellcheck&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/davidnguyen/PycharmProjects/PantryPal/.github&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.github" />
+      <recent name="$PROJECT_DIR$/.devcontainer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/shell" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/docs/img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.python analysis/nutrition_summary.py">
+    <configuration name="python analysis/ingredient_frequency.py" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PantryPal" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="analysis/ingredient_frequency.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python analysis/nutrition_summary.py" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PantryPal" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="analysis/nutrition_summary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python analysis/trends_over_time.py" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PantryPal" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="analysis/trends_over_time.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.python analysis/nutrition_summary.py" />
+        <item itemvalue="Python.python analysis/trends_over_time.py" />
+        <item itemvalue="Python.python analysis/ingredient_frequency.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d9c65b9-1d2d-4644-8c29-92f7e288da7d" name="Changes" comment="" />
+      <created>1745767803277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745767803277</updated>
+      <workItem from="1745767804360" duration="216000" />
+      <workItem from="1745768023046" duration="5873000" />
+      <workItem from="1745774183017" duration="1438000" />
+    </task>
+    <task id="LOCAL-00001" summary="Final: App workin">
+      <option name="closed" value="true" />
+      <created>1745767832049</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745767832050</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745767891048</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745767891048</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745768018127</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745768018127</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745768089089</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745768089089</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745768091322</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745768091322</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745768485735</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745768485735</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745768524666</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1745768524666</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745768688262</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1745768688262</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745773883569</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1745773883569</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745774203202</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1745774203202</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745774219541</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1745774219541</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745774223453</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1745774223453</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745774234722</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1745774234722</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745774237501</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1745774237501</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745774301494</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1745774301494</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745774320216</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1745774320216</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745775142227</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1745775142227</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745775179125</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1745775179125</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745791537374</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1745791537374</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745791626620</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1745791626620</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745791683398</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1745791683398</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745791704674</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1745791704674</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745791735782</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1745791735782</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745791766250</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1745791766250</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745791792175</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1745791792175</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745791810217</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1745791810217</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745791825484</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1745791825484</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745791836895</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1745791836895</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Final: App working">
+      <option name="closed" value="true" />
+      <created>1745791874431</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1745791874431</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final: App workin" />
+    <MESSAGE value="Final: App working" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final: App working" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PantryPal$python_analysis_ingredient_frequency_py.coverage" NAME="python analysis/ingredient_frequency.py Coverage Results" MODIFIED="1745773543327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PantryPal$python_analysis_nutrition_summary_py.coverage" NAME="python analysis/nutrition_summary.py Coverage Results" MODIFIED="1745773863220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PantryPal$python_analysis_trends_over_time_py.coverage" NAME="python analysis/trends_over_time.py Coverage Results" MODIFIED="1745773553822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+streamlit
+google-genai
+python-dotenv
+streamlit-tags
+altair
+pandas
+requests
+black
+isort
+matplotlib
+streamlit-local-storage
